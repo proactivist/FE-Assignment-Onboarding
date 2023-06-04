@@ -1,5 +1,9 @@
 # Getting Started with Create React App
 
+#![Template Output](https://github.com/proactivist/FE-Assignment-Onboarding/assets/46226575/2103b6f9-d140-481e-b2e4-0835e885c897)
+![Template Background](https://github.com/proactivist/FE-Assignment-Onboarding/assets/46226575/ce05824b-eb1a-4c19-98f6-ab214cf2c7cd)
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
